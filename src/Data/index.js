@@ -26,7 +26,7 @@ export const blogData = [
       imageUrl: "/images/pic3.webp",
       publishDate: "May 4, 2023",
       avatar: "/images/avatar.png",
-      authorName: "Supriya Gupta",
+      authorName: "Tauhid Sheikh",
       tags: ["#NFTs ", "#assets"],
     },
   ];
